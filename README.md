@@ -1,4 +1,6 @@
-## Vite4 + Vue3 front-end engineering template
+## Vite4 + Vue3
+
+Front-end Engineering Template
 
 - [x] prettier
 - [x] esLint
